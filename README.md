@@ -20,5 +20,5 @@ Run this followed commands:
 npm install three
 npm install leva@0.9
 
-# Run the local server at localhost:8080
+# Run the local server at http://localhost:3001/ or http://localhost:3000/
 npm start
