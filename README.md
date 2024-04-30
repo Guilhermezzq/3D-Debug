@@ -13,6 +13,13 @@ Download [react three fiber](https://docs.pmnd.rs/react-three-fiber/getting-star
 
 Download [pmndrs.leva](https://github.com/pmndrs/leva).
 
+# How to Use:
+Clone this repository into your development environment.
+Import the necessary controls into your application.
+Configure the properties according to your project's needs.
+Integrate the controls into your 3D scene and adjust as necessary.
+Test and optimize interaction to provide the best user experience.
+
 Run this followed commands:
 
 ``` terminal
